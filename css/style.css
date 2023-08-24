@@ -24,17 +24,17 @@
 @import "./utilidades/formulario.css";
 @import "./utilidades/animacao.css";
 /*Seguros*/
-@import "/seguros/seguros.css";
-@import "/seguros/vantagens.css";
-@import "/seguros/perguntas.css";
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
 /*Contato*/
-@import "/css/contato/contato.css";
-@import "/css/contato/lojas.css";
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 /*Orcamento*/
-@import "/css/orcamento/orcamento.css";
+@import "./orcamento/orcamento.css";
 
 /*Termos*/
-@import "/css/termos/termos.css";
+@import "./termos/termos.css";
 
